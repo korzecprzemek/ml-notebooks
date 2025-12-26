@@ -8,7 +8,7 @@ All notebooks are designed to be runnable directly in **Google Colab**.
 ---
 
 ## Repository Structure
-
+```
 ml-notebooks
 ├── notebooks
 │   ├── Coffee Beans Recognition.ipynb
@@ -17,7 +17,7 @@ ml-notebooks
 │   └── Heart Disease.ipynb
 ├── README.md
 └── tree.txt
-
+```
 
 ---
 
